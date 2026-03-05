@@ -32,6 +32,8 @@ State-of-the-art offensive security tools and AI-native capabilities curated for
 
 - Ghost Security Agent-Native AppSec: https://ghostsecurity.ai/docs/installation
 
+- Ai Red Teaming Assistant: https://github.com/pluginagentmarketplace/custom-plugin-ai-red-teaming
+
 - Shannon: https://github.com/KeygraphHQ/shannon
 
 - PentestGPT: https://github.com/GreyDGL/PentestGPT
