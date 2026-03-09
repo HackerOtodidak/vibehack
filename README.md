@@ -27,8 +27,16 @@ State-of-the-art offensive security tools and AI-native capabilities curated for
 
 - Continuous Threat Modeling Skills: https://github.com/izar/tm_skills
 
+- Code Security Audit Plugin: https://github.com/mfakbar127/agent-skills/tree/master/plugins/security-code-audit
+
+- Claude Code Plugins - Orchestration and Automation: https://github.com/wshobson/agents
+
+- Collection of Hacking Skills to feed opencode: https://github.com/1hehaq/skill
+
 
 ## Specialized AI Hacking Agents (Supports AI Subscriptions — Not BYOK Only)
+
+- Latest AI Hacking Agents Tracking: https://github.com/EvanThomasLuke/Awesome-AI-Hacking-Agents
 
 - Ghost Security Agent-Native AppSec: https://ghostsecurity.ai/docs/installation
 
@@ -43,6 +51,8 @@ State-of-the-art offensive security tools and AI-native capabilities curated for
 - NTREE - Neura Tactical Red-Team Exploitation Engine: https://github.com/wargaintibumi/ntree-lite
 
 - RAPTOR: https://github.com/gadievron/raptor
+
+- ferr - The open source hacking agent : https://github.com/mkdirtim/ferr
 
 
 ## OSS Tools
@@ -60,6 +70,9 @@ State-of-the-art offensive security tools and AI-native capabilities curated for
 - s0md3v: https://github.com/s0md3v
 
 - Crimson v3: https://github.com/Karmaz95/crimson
+
+- grepai - Semantic search of the codebase: https://yoanbernabeu.github.io/grepai/
+
 
 ## Commercial Tools
 
