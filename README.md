@@ -13,6 +13,10 @@ State-of-the-art offensive security tools and AI-native capabilities curated for
 
 - Trail of Bits Claude Code Sanboxed Devcontainer: https://github.com/trailofbits/claude-code-devcontainer
 
+- Latest AI Hacking Skills Tracking:https://github.com/EvanThomasLuke/Awesome-AI-Security-Skills
+
+- https://github.com/transilienceai/communitytools
+
 - Trail of Bits Skills: https://github.com/trailofbits/skills
 
 - Trail of Bits Curated Skills: https://github.com/trailofbits/skills-curated
@@ -33,10 +37,32 @@ State-of-the-art offensive security tools and AI-native capabilities curated for
 
 - Collection of Hacking Skills to feed opencode: https://github.com/1hehaq/skill
 
+- https://github.com/jthack/ffuf_claude_skill
+
+- https://github.com/mohdhaji87/payloadsallthethings-skills
+
+- https://github.com/six2dez/burp-mcp-agents
+
+- https://www.pentest-book.com/others/burp#burp-mcp%E2%80%93codex-cli
+
+- https://github.com/BehiSecc/awesome-claude-skills?tab=readme-ov-file#-security--web-testing
+
+- https://mcpmarket.com/categories/security-testing
+
+- https://github.com/mfakbar127/MCP-Ables
+
+- https://github.com/cyproxio/mcp-for-security
+
+- https://github.com/Srajangpt1/ai_security_crew
+
 
 ## Specialized AI Hacking Agents (Supports AI Subscriptions — Not BYOK Only)
 
 - Latest AI Hacking Agents Tracking: https://github.com/EvanThomasLuke/Awesome-AI-Hacking-Agents
+
+- https://github.com/anshumanbh/securevibes
+
+- https://github.com/anshumanbh/vulnvibes
 
 - Ghost Security Agent-Native AppSec: https://ghostsecurity.ai/docs/installation
 
@@ -54,6 +80,13 @@ State-of-the-art offensive security tools and AI-native capabilities curated for
 
 - ferr - The open source hacking agent : https://github.com/mkdirtim/ferr
 
+- https://github.com/six2dez/burp-ai-agent
+
+- https://github.com/0x4m4/hexstrike-ai
+
+- https://github.com/FuzzingLabs/fuzzforge_ai
+
+- 
 
 ## OSS Tools
 
@@ -73,6 +106,22 @@ State-of-the-art offensive security tools and AI-native capabilities curated for
 
 - grepai - Semantic search of the codebase: https://yoanbernabeu.github.io/grepai/
 
+- https://github.com/shipsecai/studio
+
+- https://github.com/haroonawanofficial/AISA-Scanner
+
+- https://github.com/arch3rPro/spec-hack
+
+- https://github.com/Arcanum-Sec/sec-context
+
+- https://github.com/findthehead/Byomkesh
+
+- https://github.com/JoasASantos/Offensive-AI-Agent-Prompts
+
+- https://nucleiprompts.com/
+
+- https://github.com/reewardius/Nuclei-AI-Prompts
+
 
 ## Commercial Tools
 
@@ -87,3 +136,15 @@ State-of-the-art offensive security tools and AI-native capabilities curated for
 - Codex Security (Formerly Aardvark) - an agentic AI security researcher: https://openai.com/index/introducing-aardvark/
 
 - Google CodeMender - an AI agent for code security: https://deepmind.google/blog/introducing-codemender-an-ai-agent-for-code-security/
+
+- https://strike.sh/
+
+- https://code.xint.io/
+
+- https://app.hacktron.ai/signup
+
+- https://mazehq.com/product
+
+- https://cyprox.io/
+
+- https://fuzzforge.ai/
