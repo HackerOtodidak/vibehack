@@ -62,6 +62,8 @@ State-of-the-art offensive security tools and AI-native capabilities curated for
 
 - https://github.com/CyberStrikeus/CyberStrike
 
+- Web Pentest Agent: https://github.com/bhavsec/autopentest-ai
+
 - https://github.com/anshumanbh/securevibes
 
 - https://github.com/anshumanbh/vulnvibes
@@ -88,7 +90,14 @@ State-of-the-art offensive security tools and AI-native capabilities curated for
 
 - https://github.com/FuzzingLabs/fuzzforge_ai
 
-- 
+- https://github.com/operantlabs/operant-mcp
+
+- https://github.com/cybersharkvin/llmitm
+
+- AI SOC Agent: https://github.com/M507/ai-soc-agent
+
+- AI Pentester Offline with Local Model: https://github.com/Sydsec/syd
+
 
 ## OSS Tools
 
