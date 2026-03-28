@@ -94,9 +94,11 @@ State-of-the-art offensive security tools and AI-native capabilities curated for
 
 - https://github.com/cybersharkvin/llmitm
 
+- AI Pentester Offline with Local Model: https://github.com/Sydsec/syd
+
 - AI SOC Agent: https://github.com/M507/ai-soc-agent
 
-- AI Pentester Offline with Local Model: https://github.com/Sydsec/syd
+- Agentic SOC Platform: https://github.com/FunnyWolf/agentic-soc-platform
 
 
 ## OSS Tools
