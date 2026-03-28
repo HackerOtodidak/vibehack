@@ -60,6 +60,8 @@ State-of-the-art offensive security tools and AI-native capabilities curated for
 
 - Latest AI Hacking Agents Tracking: https://github.com/EvanThomasLuke/Awesome-AI-Hacking-Agents
 
+- https://github.com/CyberStrikeus/CyberStrike
+
 - https://github.com/anshumanbh/securevibes
 
 - https://github.com/anshumanbh/vulnvibes
