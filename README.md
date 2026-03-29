@@ -3,6 +3,8 @@ State-of-the-art offensive security tools and AI-native capabilities curated for
 
 ## AI-natives
 
+- The largest open-source collection of cybersecurity skills for AI agents: https://github.com/mukul975/Anthropic-Cybersecurity-Skills
+
 - Claude Code (/review): Review a pull request for code quality, correctness, security, and test coverage. Pass a PR number, or omit to list open PRs. Requires the gh CLI
 
 - Claude Code (/security-review): Analyze pending changes on the current branch for security vulnerabilities. Reviews the git diff and identifies risks like injection, auth issues, and data exposure
@@ -81,6 +83,11 @@ State-of-the-art offensive security tools and AI-native capabilities curated for
 
 - Generate Claude Code bug bounty skills: https://github.com/shuvonsec/public-skills-builder
 
+- Kali & LLM Claude Desktop Setups : https://www.kali.org/blog/kali-llm-claude-desktop/
+
+- Claude Code Best Practices: https://github.com/shanraisshan/claude-code-best-practice
+
+
 ## Specialized AI Hacking Agents (Supports AI Subscriptions — Not BYOK Only)
 
 - Latest AI Hacking Agents Tracking: https://github.com/EvanThomasLuke/Awesome-AI-Hacking-Agents
@@ -88,6 +95,8 @@ State-of-the-art offensive security tools and AI-native capabilities curated for
 - Autonomous Offensive Security Agent: https://github.com/CyberStrikeus/CyberStrike
 
 - Web Pentest Agent: https://github.com/bhavsec/autopentest-ai
+
+- AI Security Operations Platform: https://github.com/RamiBotAI/ramibot
 
 - https://github.com/anshumanbh/securevibes
 
@@ -124,6 +133,9 @@ State-of-the-art offensive security tools and AI-native capabilities curated for
 - AI SOC Agent: https://github.com/M507/ai-soc-agent
 
 - Agentic SOC Platform: https://github.com/FunnyWolf/agentic-soc-platform
+
+- AIRecon is an autonomous cybersecurity agent that combines a self-hosted Large Language Model (Ollama) with a Kali Linux Docker: https://github.com/pikpikcu/airecon
+
 
 
 ## OSS Tools
