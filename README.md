@@ -9,7 +9,21 @@ State-of-the-art offensive security tools and AI-native capabilities curated for
 
 - Claude Code Security - Claude scans your entire codebase for vulnerabilities, validates each finding to minimize false positives, and suggests patches you can review and approve: https://claude.com/solutions/claude-code-security
 
-- Trail of Bits Claude Code Config: https://github.com/trailofbits/claude-code-config?tab=readme-ov-file#recommended-skills
+- Trail of Bits Claude Code Config (https://labs.secengai.com/p/how-trail-of-bits-member-sets-up-claude-code-for-security-research-development): https://github.com/trailofbits/claude-code-config?tab=readme-ov-file#recommended-skills
+
+- How I Use Every Claude Code Feature as a Security Engineer: https://labs.secengai.com/p/how-i-use-every-claude-code-feature-as-a-security-engineer
+
+- AI-assisted Web Pentesting Using Claude Code + Burp MCP: https://labs.secengai.com/p/ai-assisted-web-pentesting-using-claude-code-burp-mcp
+
+- AI-Assisted JWT Pentesting Using Claude Code + jwt_tool: https://labs.secengai.com/p/ai-assisted-jwt-pentesting-using-claude-code-jwt-tool
+
+- AI-Assisted IDOR Testing Using Claude Code + Burp MCP (https://labs.secengai.com/p/ai-assisted-idor-testing-using-claude-code-burp-mcp): https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/idor-testing
+
+- AI-Assisted JavaScript Analysis for Bug Bounty Hunting Using Claude Code: https://labs.secengai.com/p/ai-assisted-javascript-analysis-for-bug-bounty-hunting-using-claude-code
+
+- AI-Assisted Cybersecurity Second Brain Using Claude Code + Basic Memory: https://labs.secengai.com/p/build-a-cybersecurity-second-brain-with-claude-code-basic-memory
+
+- AI-Assisted Email Phishing Analysis Using Claude Code: https://labs.secengai.com/p/ai-assisted-email-phishing-analysis-using-claude-code
 
 - Trail of Bits Claude Code Sanboxed Devcontainer: https://github.com/trailofbits/claude-code-devcontainer
 
@@ -54,6 +68,12 @@ State-of-the-art offensive security tools and AI-native capabilities curated for
 - https://github.com/cyproxio/mcp-for-security
 
 - https://github.com/Srajangpt1/ai_security_crew
+
+- Security Code Review Your GitHub PRs Using Claude Code: https://labs.secengai.com/p/security-code-review-github-pr-using-claude-code
+
+- https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills (https://github.com/sickn33/antigravity-awesome-skills/blob/main/docs/users/bundles.md#security--compliance)
+
+
 
 
 ## Specialized AI Hacking Agents (Supports AI Subscriptions — Not BYOK Only)
