@@ -11,9 +11,13 @@ State-of-the-art offensive security tools and AI-native capabilities curated for
 
 - Trail of Bits Claude Code Config (https://labs.secengai.com/p/how-trail-of-bits-member-sets-up-claude-code-for-security-research-development): https://github.com/trailofbits/claude-code-config?tab=readme-ov-file#recommended-skills
 
+- Claude Bug Bounty - The AI-Powered Agent Harness for Professional Bug Bounty Hunting: https://github.com/shuvonsec/claude-bug-bounty
+
 - How I Use Every Claude Code Feature as a Security Engineer: https://labs.secengai.com/p/how-i-use-every-claude-code-feature-as-a-security-engineer
 
 - AI-assisted Web Pentesting Using Claude Code + Burp MCP: https://labs.secengai.com/p/ai-assisted-web-pentesting-using-claude-code-burp-mcp
+
+- BurpQL Cuts Through Burp MCP Server Noise (https://www.cylentsec.com/blog/2026/03/17/BurpQL-Cuts-Through-MCP-Noise/): https://github.com/cylentsec/BurpQL
 
 - AI-Assisted JWT Pentesting Using Claude Code + jwt_tool: https://labs.secengai.com/p/ai-assisted-jwt-pentesting-using-claude-code-jwt-tool
 
@@ -73,14 +77,15 @@ State-of-the-art offensive security tools and AI-native capabilities curated for
 
 - https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills (https://github.com/sickn33/antigravity-awesome-skills/blob/main/docs/users/bundles.md#security--compliance)
 
+- Leveling Up Secure Code Reviews with Claude Code: https://specterops.io/blog/2026/03/26/leveling-up-secure-code-reviews-with-claude-code/
 
-
+- Generate Claude Code bug bounty skills: https://github.com/shuvonsec/public-skills-builder
 
 ## Specialized AI Hacking Agents (Supports AI Subscriptions — Not BYOK Only)
 
 - Latest AI Hacking Agents Tracking: https://github.com/EvanThomasLuke/Awesome-AI-Hacking-Agents
 
-- https://github.com/CyberStrikeus/CyberStrike
+- Autonomous Offensive Security Agent: https://github.com/CyberStrikeus/CyberStrike
 
 - Web Pentest Agent: https://github.com/bhavsec/autopentest-ai
 
