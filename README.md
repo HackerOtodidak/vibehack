@@ -3,6 +3,8 @@ State-of-the-art offensive security tools and AI-native capabilities curated for
 
 ## AI-natives
 
+- Latest AI Hacking Skills Tracking:https://github.com/EvanThomasLuke/Awesome-AI-Security-Skills
+
 - The largest open-source collection of cybersecurity skills for AI agents: https://github.com/mukul975/Anthropic-Cybersecurity-Skills
 
 - Claude Code (/review): Review a pull request for code quality, correctness, security, and test coverage. Pass a PR number, or omit to list open PRs. Requires the gh CLI
@@ -32,8 +34,6 @@ State-of-the-art offensive security tools and AI-native capabilities curated for
 - AI-Assisted Email Phishing Analysis Using Claude Code: https://labs.secengai.com/p/ai-assisted-email-phishing-analysis-using-claude-code
 
 - Trail of Bits Claude Code Sanboxed Devcontainer: https://github.com/trailofbits/claude-code-devcontainer
-
-- Latest AI Hacking Skills Tracking:https://github.com/EvanThomasLuke/Awesome-AI-Security-Skills
 
 - https://github.com/transilienceai/communitytools
 
