@@ -43,6 +43,8 @@ State-of-the-art offensive security tools and AI-native capabilities curated for
 
 - Ghost Security AppSec Skills: https://github.com/ghostsecurity/skills
 
+- https://github.com/Security-Phoenix-demo/security-skills-claude-code
+
 - Hacktron Skills: https://github.com/HacktronAI/skills
 
 - SecOpsAgentKit Skills: https://github.com/AgentSecOps/SecOpsAgentKit
@@ -87,6 +89,7 @@ State-of-the-art offensive security tools and AI-native capabilities curated for
 
 - Claude Code Best Practices: https://github.com/shanraisshan/claude-code-best-practice
 
+- https://github.com/elastic/agent-skills
 
 ## Specialized AI Hacking Agents (Supports AI Subscriptions — Not BYOK Only)
 
