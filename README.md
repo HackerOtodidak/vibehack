@@ -5,6 +5,8 @@ State-of-the-art offensive security tools and AI-native capabilities curated for
 
 - Latest AI Hacking Skills Tracking:https://github.com/EvanThomasLuke/Awesome-AI-Security-Skills
 
+- Open-source Claude Code skills, agents, and slash commands for AI-powered penetration testing, bug bounty hunting, AI threat testing, and security reconnaissance: https://github.com/transilienceai/communitytools
+
 - The largest open-source collection of cybersecurity skills for AI agents: https://github.com/mukul975/Anthropic-Cybersecurity-Skills
 
 - Claude Code (/review): Review a pull request for code quality, correctness, security, and test coverage. Pass a PR number, or omit to list open PRs. Requires the gh CLI
