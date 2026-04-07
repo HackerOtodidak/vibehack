@@ -3,11 +3,13 @@ State-of-the-art offensive security tools and AI-native capabilities curated for
 
 ## AI-natives
 
-- Latest AI Hacking Skills Tracking:https://github.com/EvanThomasLuke/Awesome-AI-Security-Skills
+- Latest AI Hacking Skills Tracking: https://github.com/EvanThomasLuke/Awesome-AI-Security-Skills
 
 - Open-source Claude Code skills, agents, and slash commands for AI-powered penetration testing, bug bounty hunting, AI threat testing, and security reconnaissance: https://github.com/transilienceai/communitytools
 
 - The largest open-source collection of cybersecurity skills for AI agents: https://github.com/mukul975/Anthropic-Cybersecurity-Skills
+
+- A comprehensive collection of 15 Claude Code Skills for cybersecurity professionals: https://github.com/Masriyan/Claude-Code-CyberSecurity-Skill
 
 - Claude Code (/review): Review a pull request for code quality, correctness, security, and test coverage. Pass a PR number, or omit to list open PRs. Requires the gh CLI
 
@@ -37,13 +39,13 @@ State-of-the-art offensive security tools and AI-native capabilities curated for
 
 - Trail of Bits Claude Code Sanboxed Devcontainer: https://github.com/trailofbits/claude-code-devcontainer
 
-- https://github.com/transilienceai/communitytools
-
 - Trail of Bits Skills: https://github.com/trailofbits/skills
 
 - Trail of Bits Curated Skills: https://github.com/trailofbits/skills-curated
 
 - Ghost Security AppSec Skills: https://github.com/ghostsecurity/skills
+
+- Semgrep Skills: https://github.com/semgrep/skills
 
 - https://github.com/Security-Phoenix-demo/security-skills-claude-code
 
@@ -60,6 +62,8 @@ State-of-the-art offensive security tools and AI-native capabilities curated for
 - Claude Code Plugins - Orchestration and Automation: https://github.com/wshobson/agents
 
 - Collection of Hacking Skills to feed opencode: https://github.com/1hehaq/skill
+
+- Methodology-driven web pentest skill: https://github.com/strobes-security/web-pentest-sample/blob/main/SKILL.md
 
 - https://github.com/jthack/ffuf_claude_skill
 
@@ -92,6 +96,37 @@ State-of-the-art offensive security tools and AI-native capabilities curated for
 - Claude Code Best Practices: https://github.com/shanraisshan/claude-code-best-practice
 
 - https://github.com/elastic/agent-skills
+
+- Security scanner for AI agents, MCP, Skills: https://github.com/snyk/agent-scan
+
+- https://github.com/jaskaranhundal/usap-skills
+
+- https://github.com/pitimon/claude-cybersecurity-skill
+
+- SAST skills: https://github.com/SunWeb3Sec/llm-sast-scanner
+
+- Code Scanner for Harness Engineer: https://github.com/HikaruEgashira/parsentry
+
+- https://github.com/VoltAgent/awesome-claude-code-subagents?tab=readme-ov-file#04-quality--security
+
+- https://github.com/VoltAgent/awesome-codex-subagents?tab=readme-ov-file#04-quality--security
+
+- https://github.com/openai/skills/tree/main/skills/.curated/security-best-practices
+
+- https://github.com/openai/skills/tree/main/skills/.curated/security-threat-model
+
+- https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/code-review
+
+- https://github.com/SHADOWPR0/security-bluebook-builder/tree/main
+
+- https://github.com/hoodini/ai-agents-skills/blob/master/skills/owasp-security/SKILL.md
+
+- https://github.com/getsentry/skills/blob/main/plugins/sentry-skills/skills/security-review/SKILL.md
+
+- https://github.com/rmyndharis/antigravity-skills/tree/main/skills
+
+- https://github.com/Mikacr1138/claude-bug-bounty
+
 
 ## Specialized AI Hacking Agents (Supports AI Subscriptions — Not BYOK Only)
 
@@ -141,6 +176,7 @@ State-of-the-art offensive security tools and AI-native capabilities curated for
 
 - AIRecon is an autonomous cybersecurity agent that combines a self-hosted Large Language Model (Ollama) with a Kali Linux Docker: https://github.com/pikpikcu/airecon
 
+- Autonomous LLM-Driven Pen-Testing: https://github.com/andreashappe/cochise/
 
 
 ## OSS Tools
@@ -150,6 +186,8 @@ State-of-the-art offensive security tools and AI-native capabilities curated for
 - Praetorian OffSec Capabilities: https://github.com/praetorian-inc/capabilities
 
 - reconFTW: https://github.com/six2dez/reconftw
+
+- AI/LLM local model integration for analysis of reconftw results: https://github.com/six2dez/reconftw_ai
 
 - ProjectDiscovery: https://github.com/projectdiscovery
 
@@ -177,6 +215,8 @@ State-of-the-art offensive security tools and AI-native capabilities curated for
 
 - https://github.com/reewardius/Nuclei-AI-Prompts
 
+- https://github.com/capture0x/ai-cyber-agent
+
 
 ## Commercial Tools
 
@@ -203,3 +243,35 @@ State-of-the-art offensive security tools and AI-native capabilities curated for
 - https://cyprox.io/
 
 - https://fuzzforge.ai/
+
+
+# Awesome Lists
+
+https://github.com/raphabot/awesome-cybersecurity-agentic-ai
+
+https://github.com/gmh5225/awesome-ai-security
+
+https://github.com/VoltAgent/awesome-agent-skills
+
+https://github.com/VoltAgent/awesome-openclaw-skills
+
+https://github.com/hoodini/ai-agents-skills/blob/master/skills/google-workspace-cli/SKILL.md
+
+https://github.com/ProjectRecon/awesome-ai-agents-security
+
+https://github.com/ottosulin/awesome-ai-security
+
+https://github.com/jiep/offensive-ai-compilation
+
+https://github.com/ox01024/awesome-offensive-security-ai
+
+https://github.com/TalEliyahu/Awesome-AI-Security
+
+https://github.com/TalEliyahu/AI-Security-Newsletter
+
+https://github.com/wearetyomsmnv/Awesome-LLM-agent-Security
+
+
+# Vibe Defense
+
+open-source AI SOC: https://github.com/Vigil-SOC/vigil
