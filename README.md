@@ -55,6 +55,8 @@ State-of-the-art offensive security tools and AI-native capabilities curated for
 
 - RAPTOR Skills: https://github.com/gadievron/raptor/tree/main/.claude/skills
 
+- Complete Claude skills toolkit for professional malware analysis: https://github.com/gl0bal01/malware-analysis-claude-skills
+
 - Continuous Threat Modeling Skills: https://github.com/izar/tm_skills
 
 - Code Security Audit Plugin: https://github.com/mfakbar127/agent-skills/tree/master/plugins/security-code-audit
@@ -62,6 +64,8 @@ State-of-the-art offensive security tools and AI-native capabilities curated for
 - Claude Code Plugins - Orchestration and Automation: https://github.com/wshobson/agents
 
 - Collection of Hacking Skills to feed opencode: https://github.com/1hehaq/skill
+
+- 6 Claude Code skills that automate the entire pentest lifecycle: https://github.com/Orizon-eu/claude-code-pentest
 
 - Methodology-driven web pentest skill: https://github.com/strobes-security/web-pentest-sample/blob/main/SKILL.md
 
@@ -126,6 +130,22 @@ State-of-the-art offensive security tools and AI-native capabilities curated for
 - https://github.com/rmyndharis/antigravity-skills/tree/main/skills
 
 - https://github.com/Mikacr1138/claude-bug-bounty
+
+- https://github.com/danielmiessler/Personal_AI_Infrastructure
+
+- AI-powered security assessment SKILLS for your codebase: https://github.com/kaivyy/perseus
+
+- https://github.com/danielrosehill/Claude-OSINT-Investigator
+
+- https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/security
+
+- A modular cybersecurity guide mapping prompt injection attack surfaces across all Claude environments: https://github.com/RationalEyes/claude-security-atlas
+
+- https://github.com/mahmutka/cybersecurity-claude-skills
+
+- https://github.com/alicankiraz1/Codex-Sentinel
+
+- https://github.com/sw30labs/agentic-ai-pentesting
 
 
 ## Specialized AI Hacking Agents (Supports AI Subscriptions — Not BYOK Only)
@@ -249,6 +269,10 @@ State-of-the-art offensive security tools and AI-native capabilities curated for
 
 https://github.com/raphabot/awesome-cybersecurity-agentic-ai
 
+https://github.com/efij/awesome-claude-code-security
+
+https://github.com/hesreallyhim/awesome-claude-code
+
 https://github.com/gmh5225/awesome-ai-security
 
 https://github.com/VoltAgent/awesome-agent-skills
@@ -271,6 +295,7 @@ https://github.com/TalEliyahu/AI-Security-Newsletter
 
 https://github.com/wearetyomsmnv/Awesome-LLM-agent-Security
 
+https://github.com/RationalEyes/claude-cowork-plugin-handbooks
 
 # Vibe Defense
 
